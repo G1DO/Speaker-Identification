@@ -25,8 +25,6 @@ This project allows you to enroll speakers by extracting MFCC templates from the
 9. [Time & Space Complexity](#time--space-complexity)
 10. [Documentation](#documentation)
 11. [Contributing](#contributing)
-12. [License](#license)
-
 ---
 
 ## Introduction
@@ -288,9 +286,3 @@ Contributions are welcome! If you’d like to:
 
 Please fork the repository, make your changes, and submit a Pull Request.
 
----
-
-## License
-
-This project is provided under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-Feel free to use, modify, and distribute under the terms of MIT.
