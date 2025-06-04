@@ -23,8 +23,7 @@ This project allows you to enroll speakers by extracting MFCC templates from the
    * [Dynamic Time Warping (DTW)](#dynamic-time-warping-dtw)
    * [Window-Pruned DTW](#window-pruned-dtw)
 9. [Time & Space Complexity](#time--space-complexity)
-10. [Documentation](#documentation)
-11. [Contributing](#contributing)
+10. [Contributing](#contributing)
 ---
 
 ## Introduction
@@ -264,14 +263,6 @@ TestCases/
 * **n** = number of frames in test sequence (unknown).
 * **m** = number of frames in template sequence (enrolled).
 * **W** = pruning window width (e.g., 50).
-
----
-
-## Documentation
-
-The complete project specification, algorithm descriptions, and complexity analysis are provided in **Documentation.pdf**. You can view or download it directly:
-
-[Download Documentation.pdf](./Documentation.pdf) citeturn15file0
 
 ---
 
