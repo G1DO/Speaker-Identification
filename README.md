@@ -75,9 +75,9 @@ Recorder/                           ← root folder containing the solution file
 │
 ├─ SpeakerID/                       ← Core Speaker-ID logic
 │    ├─ DTW.cs                      ← Full DTW & window-pruned DTW
-│    ├─ Utils.cs                    ← Serialize/Deserialize double[][] as CSV
-│    ├─ Enroll.cs                   ← Enrollment (extract MFCC → save template)
-│    └─ Identify.cs                 ← Identification (load templates → run DTW)
+│   
+│   
+│    
 │
 └─ Templates/                       ← (Created at runtime) holds `<Name>.bin` files
 ```
