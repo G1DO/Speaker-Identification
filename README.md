@@ -74,11 +74,8 @@ Recorder/                           ← root folder containing the solution file
 │    └─ MFCC.cs                     ← ExtractFeatures(sig, sampleRate)
 │
 ├─ SpeakerID/                       ← Core Speaker-ID logic
-│    ├─ DTW.cs                      ← Full DTW & window-pruned DTW
+│    └─ DTW.cs                      ← Full DTW & window-pruned DTW
 │   
-│   
-│    
-│
 └─ Templates/                       ← (Created at runtime) holds `<Name>.bin` files
 ```
 
